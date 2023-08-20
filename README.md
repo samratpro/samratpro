@@ -1,6 +1,6 @@
 ### Hi there, I'm [Samrat Biswas](https://github.com/samratpro) 👋
 
-I am first year BSc in CSE student at [KKBAU](https://www.kkbau.ac.bd/), Khulna Bangladesh. Apart from that I am web and desktop application developer that loves writing articles (on Machine Learning, Data Science, Productivity and PhD Tips) and contributing to open source.
+I am first year BSc in CSE student at [KKBAU](https://www.kkbau.ac.bd/), Khulna Bangladesh.
 
 **My Reseach Interest**:
 - Outlying Aspect Mining

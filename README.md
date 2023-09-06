@@ -1,8 +1,8 @@
 ### Hi there, I'm [Samrat Biswas](https://github.com/samratpro) 👋
 
-I am first year BSc in CSE student at [KKBAU](https://www.kkbau.ac.bd/), Khulna Bangladesh.
+I am a BSc CSE student at [KKBAU](https://www.kkbau.ac.bd/), Khulna Bangladesh.
 
-**My Reseach Interest**:
+**My Research Interest**:
 - Outlying Aspect Mining
 - Classification
 - Clustering

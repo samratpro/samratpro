@@ -1,6 +1,6 @@
-### Hi there, I'm [Samrat Biswas](https://github.com/samratpro) 👋
+### Hi there, I'm [https://www.facebook.com/samratprodev/) 👋
 
-I am a BSc CSE student at [KKBAU](https://www.kkbau.ac.bd/), Khulna Bangladesh.
+I'm a Programmer very familiar with Python and JavaScript Language. But I don't think in a language way. I love working with any new language, that's why I'm also familiar with C++, Java, and PHP.
 
 **My Research Interest**:
 - Outlying Aspect Mining

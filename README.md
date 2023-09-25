@@ -1,6 +1,6 @@
 ## Hi there, I'm [Samrat Biswas](https://www.facebook.com/samratprodev/) 👋
 
-I'm a Programmer with very familiar with Python and JavaScript Language. But I don't think in a language way. I love working with any new language, that's why I'm also familiar with C++, Java, and PHP.
+I'm a Programmer with very familiar with Python and JavaScript Language. But I don't think in a language way. That's why I love working with any new language, that's why I'm also familiar with C++, Java, and PHP.
 
 ## My Interest:
 - Desktop Application

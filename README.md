@@ -44,6 +44,8 @@ I'm a Programmer very familiar with Python and JavaScript Language. But I don't 
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)&nbsp;
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+![Netbeans](https://icons8.com/icon/4djt356tq8UO/apache-netbeans)&nbsp;
+![Codeblocks](https://icons8.com/icon/Vc0BGyr9PEcj/code-blocks)&nbsp;
 
 ## Connect with me:
 
@@ -54,25 +56,3 @@ I'm a Programmer very familiar with Python and JavaScript Language. But I don't 
 [<img src="https://img.shields.io/badge/Facebook-Connect-brightgreen?style=for-the-badge&labelColor=black&logo=facebook" />](https://www.facebook.com/samratprodev/)
 </p>
 
-<!-- 
-----
-[<img src="https://github-profile-trophy.vercel.app/?username=durgeshsamariya&row=2&column=3" />](https://github.com/ryo-ma/github-profile-trophy)
-[<img src="https://github-readme-stats.vercel.app/api?username=durgeshsamariya&theme=algolia&count_private=true&include_all_commits=true&show_icons=true" />](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=durgeshsamariya&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
-[![Durgesh's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themlphdstudent&theme=algolia&hide=Jupyter&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
- -->
-
-<!--
-**themlphdstudent/themlphdstudent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

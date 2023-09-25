@@ -2,19 +2,13 @@
 
 I'm a Programmer very familiar with Python and JavaScript Language. But I don't think in a language way. I love working with any new language, that's why I'm also familiar with C++, Java, and PHP.
 
-**My Research Interest**:
-- Outlying Aspect Mining
-- Classification
-- Clustering
-- Anomaly Detection
-- Similarity Measure
+**My Interest**:
+- Desktop Application
+- Web Base SaaS
+- Data Solution
+- Automation
+- ML & AI
 
- **I am open to**:
-
-- any collobration work,
-- machine learning projects(development or research),
-- research internships and
-- available to become reviewer or PC member for Machine Learning/Data mining journals or conferences.
 
 ## Skills:
 

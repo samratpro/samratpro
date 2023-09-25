@@ -28,7 +28,7 @@ I'm a Programmer very familiar with Python and JavaScript Language. But I don't 
 
 #### Database
 
-![SQLite](https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg)&nbsp;
+![SQLite](https://i.imgur.com/ZzIF7br.png)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 

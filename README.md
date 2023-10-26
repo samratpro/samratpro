@@ -11,7 +11,7 @@ I'm a Programmer who is very familiar with Python and JavaScript Language. But I
 
 
 ## Skills:
-- PyQt6                   - ( desktop application framework )
+- PyQt6                  &nbsp;&nbsp;&nbsp; - ( desktop application framework )
 - TKinter                 - ( desktop application library )
 - CustomTkinter           - ( modern desktop application library )
 - Django                  - ( web application Framework )
@@ -20,7 +20,7 @@ I'm a Programmer who is very familiar with Python and JavaScript Language. But I
 - Requests, BS4           - ( data scraping library )
 - Scrapy                  - ( data scraping framework )
 - React.js                - ( frontend web development library )
-- Django REST framework   - ( django base REST API development framework )
+- Django REST framework   &nbsp; - ( django base REST API development framework )
   
 #### Languages:
 

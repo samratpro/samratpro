@@ -11,16 +11,16 @@ I'm a Programmer who is very familiar with Python and JavaScript Language. But I
 
 
 ## Skills:
-- PyQt6 - ( desktop application framework )
-- TKinter - ( desktop application library )
-- CustomTkinter - ( modern desktop application library )
-- Django - ( web application Framework )
-- Flask - ( micro Web application framework )
-- Selenium - ( browser automation library )
-- Requests, BS4 - ( data scraping library )
-- Scrapy - ( data scraping framework )
-- React.js - ( frontend web development library )
-- Django REST framework - ( django base REST API development framework )
+- PyQt6                   - ( desktop application framework )
+- TKinter                 - ( desktop application library )
+- CustomTkinter           - ( modern desktop application library )
+- Django                  - ( web application Framework )
+- Flask                   - ( micro Web application framework )
+- Selenium                - ( browser automation library )
+- Requests, BS4           - ( data scraping library )
+- Scrapy                  - ( data scraping framework )
+- React.js                - ( frontend web development library )
+- Django REST framework   - ( django base REST API development framework )
   
 #### Languages:
 

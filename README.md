@@ -17,6 +17,8 @@ I'm a Programmer who is very familiar with Python and JavaScript Language. But I
 - Django                   - ( web application Framework )
 - Flask                    - ( micro Web application framework )
 - Selenium                - ( browser automation library )
+- Playwrite               - ( browser automation library )
+- Puppeteer / Pyppeteer   - ( browser automation library )
 - Requests, BS4           - ( data scraping library )
 - Scrapy                   - ( data scraping framework )
 - React.js                - ( frontend web development library )

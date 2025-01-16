@@ -2,6 +2,10 @@
 
 I'm a Programmer who is very familiar with Python and JavaScript Language. But I don't think in a language way. That's why I love working with any new language, so I'm also familiar with C++, Java, and PHP syntax.
 
+## New Journey..
+- golang Rest API Development
+- nodejs Rest API Development
+
 ## My Interest:
 - Desktop Application
 - Web Base SaaS

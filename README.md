@@ -25,7 +25,8 @@ I'm a Programmer who is very familiar with Python and JavaScript Language. But I
 - Puppeteer / Pyppeteer   - ( browser automation library )
 - Requests, BS4           - ( data scraping library )
 - Scrapy                   - ( data scraping framework )
-- React.js                - ( frontend web development library )
+- React JS                - ( frontend web development library )
+- Next JS                 - ( The Full-Stack React Framework )
 - Django REST framework   - ( django base REST API development framework )
   
 #### Languages:

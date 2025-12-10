@@ -73,6 +73,7 @@ I'm a Programmer who is very familiar with Python, TypeScript/JavaScript, and Go
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://bd.linkedin.com/in/samratpy)
 [<img src="https://img.shields.io/badge/Facebook-Connect-brightgreen?style=for-the-badge&labelColor=black&logo=facebook" />](https://www.facebook.com/samratprodev/)
 </p>
+
 ## Tips to keep backup github all repo in local
 - Open Chrome / Edge
 - https://cli.github.com/

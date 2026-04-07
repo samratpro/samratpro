@@ -70,8 +70,8 @@ I'm a Programmer who is very familiar with Python, TypeScript/JavaScript, and Go
 <p align = "center">
 
 [<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://github.com/samratpro)
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://bd.linkedin.com/in/samratpy)
-[<img src="https://img.shields.io/badge/Facebook-Connect-brightgreen?style=for-the-badge&labelColor=black&logo=facebook" />](https://www.facebook.com/samratprodev/)
+[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/samratx/)
+[<img src="https://img.shields.io/badge/Facebook-Connect-brightgreen?style=for-the-badge&labelColor=black&logo=facebook" />](https://www.facebook.com/samratux/)
 </p>
 
 ## Tips to keep backup github all repo in local

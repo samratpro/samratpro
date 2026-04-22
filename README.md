@@ -1,14 +1,14 @@
 ## Hi there, I'm [Samrat Biswas](https://www.facebook.com/samratprodev/) 👋
 
-I'm a Programmer who is very familiar with Python, TypeScript/JavaScript, Golang, and Java. But I don't think in a language way. That's why I love working with any new language, so I'm also familiar with C++, Java, and PHP syntax.
+I'm a Programmer who is very familiar with Python, TypeScript/JavaScript, Golang, and Java. But I don't think in a language way. That's why I love working with any new language, so I'm also familiar with C++ and PHP syntax.
 
 ## New Journey..
 - golang Rest API Development
-- nodejs Rest API Development
+- NodeJS Rest API Development
 
 ## My Interest:
 - Desktop Application
-- Web Base SaaS
+- Web-Based SaaS
 - Data Solution
 - Automation
 - ML & AI

@@ -1,10 +1,10 @@
 ## Hi there, I'm [Samrat Biswas](https://www.facebook.com/samratprodev/) 👋
 
-I'm a Programmer who is very familiar with Python, TypeScript/JavaScript, Golang, and Java. But I don't think in a language way. That's why I love working with any new language, so I'm also familiar with C++ and PHP syntax.
+I'm a Programmer who is very familiar with Python, TypeScript/JavaScript, Golang, and Java. But I don't think in a language-specific way. That's why I love working with any new language, so I'm also familiar with C++ and PHP syntax.
 
 ## New Journey..
-- golang Rest API Development
-- NodeJS Rest API Development
+- Golang REST API Development
+- Node.js REST API Development
 
 ## My Interest:
 - Desktop Application
@@ -15,20 +15,20 @@ I'm a Programmer who is very familiar with Python, TypeScript/JavaScript, Golang
 
 
 ## Skills:
-- PyQt6                    - ( desktop application framework )
-- TKinter                  - ( desktop application library )
-- CustomTkinter            - ( modern desktop application library )
+- PyQt6                    - ( desktop application framework)
+- Tkinter                  - ( desktop application library)
+- CustomTkinter            - ( modern desktop application library)
 - Django                   - ( web application Framework )
-- Flask                    - ( micro Web application framework )
-- Selenium                - ( browser automation library )
-- Playwright               - ( browser automation library - Py, TS, Go )
-- Puppeteer / Pyppeteer   - ( browser automation library )
-- Requests, BS4           - ( data scraping library )
-- got / cheerio           - ( data scraping library based on nodejs )
-- Scrapy                   - ( data scraping framework )
-- React JS                - ( frontend web development library )
+- Flask                    - ( micro Web application framework)
+- Selenium                - ( browser automation library)
+- Playwright               - ( browser automation library - Py, TS, Go)
+- Puppeteer / Pyppeteer   - ( browser automation library)
+- Requests, BS4           - ( data scraping library)
+- got / cheerio           - ( data scraping library based on Node.js)
+- Scrapy                   - ( data scraping framework)
+- React JS                - ( frontend web development library)
 - Next JS                 - ( The Full-Stack React Framework )
-- Django REST framework   - ( django base REST API development framework )
+- Django REST Framework   - ( django base REST API development framework)
   
 #### Languages:
 
@@ -69,16 +69,16 @@ I'm a Programmer who is very familiar with Python, TypeScript/JavaScript, Golang
 
 <p align = "center">
 
-[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://github.com/samratpro)
+[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](http://bestcampus.org/)
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/samratx/)
 [<img src="https://img.shields.io/badge/Facebook-Connect-brightgreen?style=for-the-badge&labelColor=black&logo=facebook" />](https://www.facebook.com/samratux/)
 </p>
 
-## Tips to keep backup github all repo in local
+## Tips to keep a backup of all repo in local
 - Open Chrome / Edge
 - https://cli.github.com/
-- Download and install software
-- Open / Reopen git bash and use command
+- Download and install the software
+- Open / Reopen git bash and use the command
 ```bash
 gh --version
 gh version 2.xx.x  # check version

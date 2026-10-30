@@ -11,8 +11,9 @@ I'm a Programmer who is very familiar with Python, TypeScript/JavaScript, Golang
 - Web-Based SaaS
 - Data Solution
 - Automation
-- ML & AI
-
+- Software Testing
+- ML, AI, LLM
+- AI Agent
 
 ## Skills:
 - PyQt6                    - ( desktop application framework)
@@ -28,7 +29,7 @@ I'm a Programmer who is very familiar with Python, TypeScript/JavaScript, Golang
 - Scrapy                   - ( data scraping framework)
 - React JS                - ( frontend web development library)
 - Next JS                 - ( The Full-Stack React Framework )
-- Django REST Framework   - ( django base REST API development framework)
+- Django REST Framework   - (Django-based REST API development framework)
   
 #### Languages:
 
